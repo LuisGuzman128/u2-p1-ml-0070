@@ -1,3 +1,4 @@
+# Axel Guzman 0070
 import numpy as np
 
 
@@ -33,3 +34,4 @@ califas=np.array([
     ]) # un arreglo de 2 dimensiones es como una tabla de excel
 print(califas)
 print("dimension :", califas.ndim)
+print("programa realizado por Axel Guzman 0070")

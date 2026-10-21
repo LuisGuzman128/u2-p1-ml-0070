@@ -1,3 +1,4 @@
+# Axel Guzman 0070
 import numpy as np
 
 print("--- llenar matriz de ceros ---")
@@ -18,3 +19,4 @@ print(lista)
 print("--- llenar lista con rango no 2 ---")
 lista=np.arange (0,10,1) 
 print(lista)
+print("programa realizado por Axel Guzman 0070")
